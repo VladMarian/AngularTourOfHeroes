@@ -1,3 +1,5 @@
+Tutorial's information belongs to the Angular Developers. I've merely learnt from it. 
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
