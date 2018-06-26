@@ -1,4 +1,4 @@
-Tutorial's information belongs to the Angular Developers. I've merely learnt from it. 
+Tutorial belongs to the Angular Developers. I've merely learnt from it and practised my skills doing it. 
 
 # AngularTourOfHeroes
 
